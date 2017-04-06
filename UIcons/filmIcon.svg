@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>filmIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="13" y="26" width="41" height="24"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="41" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0.216914377" y="-3.44169138e-15" width="41" height="6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="41" height="6" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <polygon id="path-5" points="4.65570746 -4.0745185e-14 8.65570746 -4.0745185e-14 7 6 3 6"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.65570746" height="6" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <polygon id="path-7" points="11.6557075 -1.82076576e-14 15.6557075 -1.82076576e-14 14 6 10 6"></polygon>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.65570746" height="6" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <polygon id="path-9" points="18.6557075 -2.39808173e-14 22.6557075 -2.39808173e-14 21 6 17 6"></polygon>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.65570746" height="6" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <polygon id="path-11" points="25.6557075 -2.22044605e-15 29.6557075 -2.22044605e-15 28 6 24 6"></polygon>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.65570746" height="6" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <polygon id="path-13" points="32.6557075 -6.66133815e-15 36.6557075 -6.66133815e-15 35 6 31 6"></polygon>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5.65570746" height="6" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filmIcon" transform="translate(3.000000, 3.000000)">
+            <use id="Rectangle-6" stroke="#152D94" mask="url(#mask-2)" stroke-width="2" fill="#97CBD4" xlink:href="#path-1"></use>
+            <g id="Group-2" transform="translate(35.101976, 20.991247) rotate(14.000000) translate(-35.101976, -20.991247) translate(14.101976, 17.991247)" stroke="#152D94">
+                <use id="Rectangle-7-Copy" mask="url(#mask-4)" stroke-width="2" fill="#97CBD4" xlink:href="#path-3"></use>
+                <use id="Rectangle-9" mask="url(#mask-6)" stroke-width="2" fill="#588FD1" xlink:href="#path-5"></use>
+                <use id="Rectangle-9-Copy" mask="url(#mask-8)" stroke-width="2" fill="#588FD0" xlink:href="#path-7"></use>
+                <use id="Rectangle-9-Copy-2" mask="url(#mask-10)" stroke-width="2" fill="#588FD0" xlink:href="#path-9"></use>
+                <use id="Rectangle-9-Copy-3" mask="url(#mask-12)" stroke-width="2" fill="#588FD0" xlink:href="#path-11"></use>
+                <use id="Rectangle-9-Copy-4" mask="url(#mask-14)" stroke-width="2" fill="#588FD0" xlink:href="#path-13"></use>
+                <circle id="Oval-5" fill="#FFFFFF" cx="38.153668" cy="3.07330007" r="1"></circle>
+            </g>
+            <circle id="Oval-Copy-4" stroke="#152C94" stroke-width="5" cx="32.5" cy="32.5" r="32.5"></circle>
+        </g>
+    </g>
+</svg>
